@@ -1,1 +1,2 @@
 Hey everyone!
+Testing git commit with VSC
